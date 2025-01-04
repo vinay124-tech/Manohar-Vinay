@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Manohar Vinay
 🔍 *ECE Student | Aspiring Data Scientist | Embedded Systems & AI Enthusiast*  
 
 Welcome to my GitHub profile! I am passionate about solving real-world problems by bridging the gap between Electronics & Communication Engineering (ECE) and Data Science.  
@@ -18,7 +18,14 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ---
 
 ## 🔧 Skills & Technologies  
-- **Programming:** Python, C, MATLAB, Verilog  
+- **Programming:**
+- <p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="cursor: pointer;">
+</p>
 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
 - **Embedded Systems:** Arduino, Raspberry Pi, FPGA Design  
 - **Tools:** Simulink, TensorFlow, PocketSphinx, Blynk Cloud  
