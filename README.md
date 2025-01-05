@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ## Technologies and Tools
 
 <p align="center">
-  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="cursor: pointer;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="cursor: pointer;">
@@ -62,8 +61,7 @@ A hardware device for detecting and classifying catastrophic arrhythmias like br
 Leveraging drone-based computer vision and geospatial technologies to monitor urban infrastructure and bridge safety.  
 - Submitted to IEEE GRSS Student Grand Challenge 2025.  
 
-### 🧠 **Brain Tumor Detection using Multimodal Image Fusion**  
-Analyzing MRI and CT scans for detecting brain tumors with advanced image processing and fusion techniques.  
+
 
 ---
 
@@ -75,10 +73,7 @@ Analyzing MRI and CT scans for detecting brain tumors with advanced image proces
 ### 💬 **Speech Recognition with Python**  
 - Offline and online speech recognition using **CMU PocketSphinx** and **Google Speech-to-Text API**.  
 - Controlled LEDs and fetched system information like date and time.  
-
-### 📈 **Arrhythmia Detection using ECG Signals**  
-- Developed an FPGA-based solution for ECG analysis, focusing on catastrophic arrhythmias.  
-- Integrated synthetic signal generation, FIR filtering, and power spectral density calculations.  
+  
 
 ---
 
@@ -90,10 +85,18 @@ Analyzing MRI and CT scans for detecting brain tumors with advanced image proces
 ---
 
 ## 📫 Let's Connect!  
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Portfolio/Website: [Your Website (if applicable)](#)  
-- Email: [Your Email Address](#)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoharvinay/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/vinay124-tech/Manohar-Vinay" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:manoharvinay9009@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 ---
 
 ⚡ *"Engineering the future, one project at a time!"*
