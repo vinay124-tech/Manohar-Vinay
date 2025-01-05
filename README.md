@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ## Technologies and Tools
 
 <p align="center">
+  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="cursor: pointer;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="cursor: pointer;">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="cursor: pointer;">
