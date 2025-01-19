@@ -60,6 +60,10 @@ Welcome to my GitHub profile! I'm an enthusiastic **Integrated Dual Degree (BTec
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)" alt="Pycharm" style="cursor: pointer;">
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" style="cursor: pointer;">
 <img src="https://img.shields.io/badge/Git/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git/GitHub" style="cursor: pointer;">
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" style="cursor: pointer;">
+<!--  <img src="https://img.shields.io/badge/Git/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Powerbi" style="cursor: pointer;"> -->
 
 </p>
 
