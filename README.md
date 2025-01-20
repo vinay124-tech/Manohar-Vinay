@@ -17,7 +17,12 @@ Welcome to my GitHub profile! I'm an enthusiastic **Integrated Dual Degree (BTec
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=vinay124-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<a href="https://github.com/vinay124-tech/Manohar-Vinay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay124-tech&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/vinay124-tech/Manohar-Vinay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay124-tech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 # 🔧 Skills  
 
